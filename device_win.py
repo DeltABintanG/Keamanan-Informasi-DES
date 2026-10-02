@@ -4,7 +4,6 @@ import threading
 from des import encrypt, decrypt
 
 
-# GANTI dengan IP WSL kamu
 SERVER_IP = "172.22.26.107"
 
 SERVER_PORT = 5000
